@@ -19,4 +19,5 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
