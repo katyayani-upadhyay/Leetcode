@@ -30,6 +30,7 @@ Leetcode problems and solutions
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -62,4 +63,8 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
