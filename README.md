@@ -8,11 +8,13 @@ Leetcode problems and solutions
 | ------- |
 | [0001-two-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0001-two-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0001-two-sum) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +34,7 @@ Leetcode problems and solutions
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -76,4 +79,8 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
