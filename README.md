@@ -19,6 +19,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1622-fancy-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,4 +106,12 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
