@@ -11,6 +11,7 @@ Leetcode problems and solutions
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Leetcode problems and solutions
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
 | ------- |
@@ -129,4 +131,5 @@ Leetcode problems and solutions
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 <!---LeetCode Topics End-->
