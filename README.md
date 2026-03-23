@@ -8,6 +8,7 @@ Leetcode problems and solutions
 | ------- |
 | [0001-two-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0001-two-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -84,6 +85,7 @@ Leetcode problems and solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Sliding Window
@@ -131,6 +133,7 @@ Leetcode problems and solutions
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
