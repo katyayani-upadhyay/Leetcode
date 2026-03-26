@@ -14,6 +14,7 @@ Leetcode problems and solutions
 | [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -106,6 +107,7 @@ Leetcode problems and solutions
 | [2906-construct-product-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Binary Search
 |  |
@@ -143,6 +145,7 @@ Leetcode problems and solutions
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -153,5 +156,6 @@ Leetcode problems and solutions
 ## Enumeration
 |  |
 | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 <!---LeetCode Topics End-->
