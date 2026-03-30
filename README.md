@@ -26,6 +26,7 @@ Leetcode problems and solutions
 | [0001-two-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0001-two-sum) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ Leetcode problems and solutions
 | [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Leetcode problems and solutions
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
