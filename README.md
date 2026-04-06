@@ -7,6 +7,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0001-two-sum) |
+| [0874-walking-robot-simulation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -27,6 +28,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0001-two-sum) |
+| [0874-walking-robot-simulation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -96,6 +98,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2751-robot-collisions](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
