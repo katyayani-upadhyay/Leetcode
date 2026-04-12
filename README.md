@@ -56,6 +56,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -118,6 +119,7 @@ Leetcode problems and solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2573-find-the-string-with-lcp) |
