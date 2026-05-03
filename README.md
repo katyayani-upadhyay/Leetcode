@@ -79,6 +79,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -247,6 +248,7 @@ Leetcode problems and solutions
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Stack
 |  |
