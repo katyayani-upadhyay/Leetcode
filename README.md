@@ -7,6 +7,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -57,6 +58,7 @@ Leetcode problems and solutions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0788-rotated-digits) |
@@ -220,6 +222,7 @@ Leetcode problems and solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
