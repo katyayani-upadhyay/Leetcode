@@ -13,6 +13,7 @@ Leetcode problems and solutions
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -128,6 +129,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2751-robot-collisions) |
@@ -155,6 +157,7 @@ Leetcode problems and solutions
 ## Greedy
 |  |
 | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2573-find-the-string-with-lcp) |
