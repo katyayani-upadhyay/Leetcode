@@ -8,6 +8,7 @@ Leetcode problems and solutions
 | ------- |
 | [0001-two-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0048-rotate-image) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -206,6 +207,7 @@ Leetcode problems and solutions
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3488-closest-equal-element-queries) |
