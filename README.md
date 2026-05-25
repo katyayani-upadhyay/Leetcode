@@ -112,6 +112,7 @@ Leetcode problems and solutions
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1871-jump-game-vii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -193,6 +194,7 @@ Leetcode problems and solutions
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -204,6 +206,7 @@ Leetcode problems and solutions
 ## Sliding Window
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
@@ -213,6 +216,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2906-construct-product-matrix) |
