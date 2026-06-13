@@ -70,6 +70,7 @@ Leetcode problems and solutions
 | [3691-maximum-total-subarray-value-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Leetcode problems and solutions
 | [3120-count-the-number-of-special-characters-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3838-weighted-word-mapping](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Leetcode problems and solutions
 | [2751-robot-collisions](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
