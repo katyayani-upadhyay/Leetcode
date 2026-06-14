@@ -336,6 +336,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -355,6 +356,7 @@ Leetcode problems and solutions
 ## Stack
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -382,4 +384,8 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
