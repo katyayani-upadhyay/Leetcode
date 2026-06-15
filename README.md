@@ -336,6 +336,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2540-minimum-common-value) |
@@ -387,5 +388,6 @@ Leetcode problems and solutions
 ## Linked List
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
