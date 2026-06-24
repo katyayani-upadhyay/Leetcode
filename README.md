@@ -110,6 +110,7 @@ Leetcode problems and solutions
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -245,6 +246,7 @@ Leetcode problems and solutions
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sliding Window
