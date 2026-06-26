@@ -70,6 +70,7 @@ Leetcode problems and solutions
 | [3689-maximum-total-subarray-value-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -94,6 +95,7 @@ Leetcode problems and solutions
 | [3548-equal-sum-grid-partition-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
@@ -277,6 +279,7 @@ Leetcode problems and solutions
 | [3546-equal-sum-grid-partition-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@ Leetcode problems and solutions
 | [1622-fancy-sequence](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1622-fancy-sequence) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -374,6 +378,7 @@ Leetcode problems and solutions
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -404,4 +409,5 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
