@@ -12,6 +12,7 @@ Leetcode problems and solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1345-jump-game-iv) |
@@ -188,6 +189,7 @@ Leetcode problems and solutions
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
