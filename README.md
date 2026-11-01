@@ -11,6 +11,7 @@ Leetcode problems and solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0874-walking-robot-simulation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1288-remove-covered-intervals](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1306-jump-game-iii) |
@@ -111,6 +112,7 @@ Leetcode problems and solutions
 | ------- |
 | [0048-rotate-image](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/katyayani-upadhyay/Leetcode/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1622-fancy-sequence) |
