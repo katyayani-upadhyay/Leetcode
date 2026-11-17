@@ -159,6 +159,7 @@ Leetcode problems and solutions
 | [2833-furthest-point-from-origin](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -262,6 +263,7 @@ Leetcode problems and solutions
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -382,6 +384,7 @@ Leetcode problems and solutions
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2540-minimum-common-value) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
