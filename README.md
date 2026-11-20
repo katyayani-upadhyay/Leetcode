@@ -52,6 +52,7 @@ Leetcode problems and solutions
 | [2784-check-if-array-is-good](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -211,6 +212,7 @@ Leetcode problems and solutions
 | [2751-robot-collisions](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -267,6 +269,7 @@ Leetcode problems and solutions
 | [2573-find-the-string-with-lcp](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
