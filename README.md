@@ -59,6 +59,7 @@ Leetcode problems and solutions
 | [3225-maximum-score-from-grid-operations](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -101,6 +102,7 @@ Leetcode problems and solutions
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3488-closest-equal-element-queries](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -166,6 +168,7 @@ Leetcode problems and solutions
 | [3093-longest-common-suffix-queries](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3838-weighted-word-mapping](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Rolling Hash
@@ -180,6 +183,7 @@ Leetcode problems and solutions
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -189,6 +193,7 @@ Leetcode problems and solutions
 | [1306-jump-game-iii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/katyayani-upadhyay/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
