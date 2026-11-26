@@ -126,6 +126,7 @@ Leetcode problems and solutions
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3360-stone-removal-game) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -246,6 +247,7 @@ Leetcode problems and solutions
 | [2553-separate-the-digits-in-an-array](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/katyayani-upadhyay/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3360-stone-removal-game](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3360-stone-removal-game) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/katyayani-upadhyay/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
